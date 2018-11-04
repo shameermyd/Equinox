@@ -1,2 +1,2 @@
-# First-Repository
-Equinoxdigital
+# EqinoxDigital
+Equinoxdigital.in site
