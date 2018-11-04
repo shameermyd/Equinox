@@ -1,2 +1,2 @@
 # First-Repository
-My first repository
+Equinoxdigital
